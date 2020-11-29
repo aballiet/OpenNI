@@ -34,7 +34,8 @@ Look at the row : flags
 # Installation
 
 ``` bash
-cd ~/kinect
+cd
+mkdir kinect cd ~/kinect
 git clone https://github.com/aballiet/OpenNI.git
 cd OpenNI
 cd Platform/Linux/CreateRedist
